@@ -1,4 +1,4 @@
-# Es nostre raconet ❤️
+# Sa meva vida ❤️
 
 Pàgina web romàntica d'un sol arxiu (`index.html`), sense dependències (només Google Fonts).
 
